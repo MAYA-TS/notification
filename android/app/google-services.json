@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034774400320",
+    "project_id": "noti-7932a",
+    "storage_bucket": "noti-7932a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034774400320:android:ba4cdafcdf294481c43ea5",
+        "android_client_info": {
+          "package_name": "com.example.noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAgU_K7Zykyk_4cbIFPczWQJtpxwl12U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034774400320:android:b7dedc76f863f72bc43ea5",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAgU_K7Zykyk_4cbIFPczWQJtpxwl12U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
